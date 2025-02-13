@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90d9818d.css",
+    "main.js": "/static/js/main.7d18dc08.js",
+    "static/js/453.182883a1.chunk.js": "/static/js/453.182883a1.chunk.js",
+    "static/media/Example_Excel_sheet.png": "/static/media/Example_Excel_sheet.56ad093ce0066377b3e2.png",
+    "static/media/excel-sheet-example.png": "/static/media/excel-sheet-example.dce317b7aeae928f3586.png",
+    "static/media/arrow.png": "/static/media/arrow.16c9150cc92d398b8298.png",
+    "static/media/laralogo.webp": "/static/media/laralogo.4950e732716a6d9baed2.webp",
+    "index.html": "/index.html",
+    "main.90d9818d.css.map": "/static/css/main.90d9818d.css.map",
+    "main.7d18dc08.js.map": "/static/js/main.7d18dc08.js.map",
+    "453.182883a1.chunk.js.map": "/static/js/453.182883a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d9818d.css",
+    "static/js/main.7d18dc08.js"
+  ]
+}
