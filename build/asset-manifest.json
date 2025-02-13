@@ -1,19 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.90d9818d.css",
-    "main.js": "/static/js/main.7d18dc08.js",
+    "main.css": "/static/css/main.d681161e.css",
+    "main.js": "/static/js/main.36920726.js",
+    "static/js/239.d6465379.chunk.js": "/static/js/239.d6465379.chunk.js",
+    "static/js/213.6c48cf5d.chunk.js": "/static/js/213.6c48cf5d.chunk.js",
+    "static/js/732.c4f4dc38.chunk.js": "/static/js/732.c4f4dc38.chunk.js",
     "static/js/453.182883a1.chunk.js": "/static/js/453.182883a1.chunk.js",
     "static/media/Example_Excel_sheet.png": "/static/media/Example_Excel_sheet.56ad093ce0066377b3e2.png",
+    "static/media/chatbot.svg": "/static/media/chatbot.d6358e1aa22c0c2d71aef766a9626518.svg",
+    "static/media/network.gif": "/static/media/network.56dcdbd10b20c5239373.gif",
+    "static/media/excel_with_topic_id_to_upload.png": "/static/media/excel_with_topic_id_to_upload.33c401ae876a2dddabe1.png",
     "static/media/excel-sheet-example.png": "/static/media/excel-sheet-example.dce317b7aeae928f3586.png",
+    "static/media/qr_code_whatsApp.png": "/static/media/qr_code_whatsApp.b7c0745cb401fa0c8c9c.png",
+    "static/media/hierarchical-structure.png": "/static/media/hierarchical-structure.f2086855343ed829c227.png",
     "static/media/arrow.png": "/static/media/arrow.16c9150cc92d398b8298.png",
+    "static/media/course-deatils-bg-top.svg": "/static/media/course-deatils-bg-top.b9ec619083e5d0209111.svg",
+    "static/media/excelsheet_with_topic_ids.xlsx": "/static/media/excelsheet_with_topic_ids.42e9b4b6d2b66f501803.xlsx",
+    "static/media/excelsheet_without_topic_id.xlsx": "/static/media/excelsheet_without_topic_id.edeb4ff4eef48e4b17b4.xlsx",
+    "static/media/features-bg.svg": "/static/media/features-bg.0f98955f6e99728b9ca1.svg",
     "static/media/laralogo.webp": "/static/media/laralogo.4950e732716a6d9baed2.webp",
+    "static/media/blob-scene-haikei.svg": "/static/media/blob-scene-haikei.4a927c441fb59d9f703d.svg",
     "index.html": "/index.html",
-    "main.90d9818d.css.map": "/static/css/main.90d9818d.css.map",
-    "main.7d18dc08.js.map": "/static/js/main.7d18dc08.js.map",
+    "static/media/about-us-bg.svg": "/static/media/about-us-bg.57fc1a6a0c21a6bfeb19.svg",
+    "main.d681161e.css.map": "/static/css/main.d681161e.css.map",
+    "main.36920726.js.map": "/static/js/main.36920726.js.map",
+    "239.d6465379.chunk.js.map": "/static/js/239.d6465379.chunk.js.map",
+    "213.6c48cf5d.chunk.js.map": "/static/js/213.6c48cf5d.chunk.js.map",
+    "732.c4f4dc38.chunk.js.map": "/static/js/732.c4f4dc38.chunk.js.map",
     "453.182883a1.chunk.js.map": "/static/js/453.182883a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90d9818d.css",
-    "static/js/main.7d18dc08.js"
+    "static/css/main.d681161e.css",
+    "static/js/main.36920726.js"
   ]
 }
